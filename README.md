@@ -31,4 +31,4 @@ build, not just the strategy.
 
 Currently: BizOps and RevOps Freelancer
 
-[LinkedIn](https://www.linkedin.com/in/harry-bradley-2946049a/) · [Email](mailto:hbradley361@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/harry-bradley-2946049a/) 
