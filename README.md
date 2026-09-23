@@ -18,7 +18,7 @@ the work publicly, since the real client data obviously can't go here.
 |---|---|---|
 | [Lead Routing & Qualification](https://github.com/hbradley42/hubspot-lead-routing-n8n) | Scoring inbound leads and routing them automatically, with a dedup gate so re-edited contacts don't get re-processed | HubSpot, n8n |
 | [Source-of-Truth Sync](https://github.com/hbradley42/crm-source-of-truth-sync) | Resolving conflicting customer data between two systems with a defined, logged ownership rule per field | HubSpot, Airtable, n8n |
-| [Recommendation & Reply Engine](https://github.com/hbradley42/ticket-recommendation-reply-engine) | Ticket qualification gates, percentage-based decision logic, and AI-assisted replies with human review on anything risky | n8n, Claude API, Airtable |
+| [Recommendation & Reply Engine](https://github.com/hbradley42/ticket-recommendation-reply-engine) | Risk-aware triage separating category from risk signals, rule-based escalation (not the model's own judgement), and live sync to both a Support Desk and a CRM | n8n, Claude API, Airtable, Hubspot |
 
 ## Background
 
